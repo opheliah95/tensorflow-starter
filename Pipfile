@@ -9,6 +9,7 @@ notebook = "*"
 pre-commit = "*"
 pandas = "*"
 matplotlib = "*"
+boto3 = "*"
 
 [dev-packages]
 
